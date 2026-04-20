@@ -15,7 +15,11 @@ DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,bygcloud.com
 DOMAIN-KEYWORD,hongxingyun
 DOMAIN-KEYWORD,bilibili
+
+# 飞牛直连
 DOMAIN-KEYWORD,jlpfnos
+
+# 加速直连
 DOMAIN-KEYWORD,linkease
 DOMAIN-KEYWORD,mirrors
 DOMAIN-SUFFIX,d4ctech.com
