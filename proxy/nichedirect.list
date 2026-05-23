@@ -41,3 +41,5 @@ DOMAIN-SUFFIX,m.daocloud.io
 # AI直连
 DOMAIN-KEYWORD,deepseek
 
+# 苹果服务直连
+DOMAIN-SUFFIX,icloud.com
