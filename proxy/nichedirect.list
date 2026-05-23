@@ -6,20 +6,28 @@
 # 域名关键字匹配
 # DOMAIN-KEYWORD,1e100
 
-# 小众网站
-DOMAIN-SUFFIX,ciweimao.com
-DOMAIN-SUFFIX,faloo.com
-DOMAIN-SUFFIX,shaoniandream.com
-DOMAIN-SUFFIX,kuangxiangit.com
-DOMAIN-SUFFIX,flurry.com
+# 小说网站
+# 刺猬猫
+DOMAIN-KEYWORD,ciweimao
+DOMAIN-KEYWORD,kuangxiangit
+# 飞卢
+DOMAIN-KEYWORD,faloo
+# 少年梦
+DOMAIN-KEYWORD,shaoniandream
+# 次元姬
+DOMAIN-KEYWORD,ciyuanji
+
+# 机场
+# 白月光
 DOMAIN-SUFFIX,bygcloud.com
-DOMAIN-KEYWORD,hongxingyun
+
+# 视频网站
 DOMAIN-KEYWORD,bilibili
 
 # 飞牛直连
 DOMAIN-KEYWORD,jlpfnos
 
-# 加速直连
+# 镜像加速直连
 DOMAIN-KEYWORD,linkease
 DOMAIN-KEYWORD,mirrors
 DOMAIN-SUFFIX,d4ctech.com
@@ -30,6 +38,6 @@ DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,1panel.live
 DOMAIN-SUFFIX,m.daocloud.io
 
-# 大模型直连
+# AI直连
 DOMAIN-KEYWORD,deepseek
 
