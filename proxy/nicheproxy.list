@@ -11,6 +11,4 @@ DOMAIN-KEYWORD,hanime1
 # docker服务
 DOMAIN-KEYWORD,docker
 
-# opencode
-DOMAIN-SUFFIX,models.dev
 
