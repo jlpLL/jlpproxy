@@ -23,8 +23,9 @@ DOMAIN-SUFFIX,bygcloud.com
 # 视频网站
 DOMAIN-KEYWORD,bilibili
 
-# 飞牛直连
+# 飞牛服务直连
 DOMAIN-KEYWORD,jlpfnos
+DOMAIN-KEYWORD,litepan
 
 # 镜像加速直连
 DOMAIN-KEYWORD,linkease
