@@ -11,4 +11,7 @@ DOMAIN-KEYWORD,hanime1
 # docker服务
 DOMAIN-KEYWORD,docker
 
+# 特殊节点
+DOMAIN-KEYWORD,gemini
+
 
