@@ -43,3 +43,7 @@ DOMAIN-KEYWORD,deepseek
 
 # 苹果服务直连
 DOMAIN-SUFFIX,icloud.com
+
+# Windows 联网状态检测（NCSI）直连
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
