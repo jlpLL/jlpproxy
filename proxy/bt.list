@@ -1,0 +1,13 @@
+# BT / P2P 端口列表（bt.list）
+# 格式：classical + text（只有规则，不写策略）
+# 对接：rule-providers.bt_ports
+# 出口：RULE-SET,bt_ports,BT专用
+
+# BitTorrent 标准端口段
+DST-PORT,6881-6889
+
+# Transmission 默认
+DST-PORT,51413
+
+# qBittorrent 备选端口
+DST-PORT,16881
